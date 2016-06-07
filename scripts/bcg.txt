@@ -1,0 +1,2 @@
+Importiere in deine Seite:
+<script src="http://webtools.esy.es/scripts/background.js"></script>
